@@ -1,0 +1,1 @@
+query acc.ver subject acc.ver alignment length mismatches

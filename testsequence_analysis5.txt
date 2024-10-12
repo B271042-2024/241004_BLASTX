@@ -1,0 +1,8 @@
+query acc.ver subject acc.ver mismatches
+# 500 hits found  
+# BLAST processed 1 queries  
+# BLASTX 2.13.0+  
+# Database: nr  
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score  
+# Query: NC_015119.1:1426-2962 Boreus elegans mitochondrion, complete genome  
+# RID: GMSZDYJG013  

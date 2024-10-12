@@ -1,0 +1,2 @@
+%HSPs with mismatches
+100
